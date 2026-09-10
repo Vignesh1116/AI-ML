@@ -12,6 +12,7 @@ print(marks.shape)
 print(marks.ndim)
 print(marks.size)
 print(marks.dtype)
+print(marks.std)
 
 # mathematical operations
 
